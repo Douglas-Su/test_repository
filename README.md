@@ -7,6 +7,7 @@ Please ignore this.... please... just for learning and testing.
 * [dir1](dir1/test.md)
 
 1\. item1
+
 2\. item2
 
 
@@ -25,3 +26,9 @@ $ git clone https://gerrit.zephyrproject.org/r/zephyr zephyr-project
 ```
 
 fdsdfafd
+
+
+* 1
+    * 2
+        * 3
+
