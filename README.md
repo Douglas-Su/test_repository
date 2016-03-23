@@ -28,7 +28,4 @@ $ git clone https://gerrit.zephyrproject.org/r/zephyr zephyr-project
 fdsdfafd
 
 
-* 1
-    * 2
-        * 3
 
