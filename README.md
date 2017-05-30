@@ -6,32 +6,14 @@ Please ignore this.... please... just for learning and testing.
 [2]: https://github.com/d0u9/test_repository/blob/master/README.md
 
 
+# title
+1. test1
 
-# Test1
+    #include <stdio.h>
 
-# For test
-* [dir1](dir1/test.md)
+    some description.
 
-1\. item1
+2. test2
 
-2\. item2
-
-
-1. item1
-
-```
-$ git clone https://gerrit.zephyrproject.org/r/zephyr zephyr-project
-```
-
-fdsdfafd
-
-2. item2
-
-```
-$ git clone https://gerrit.zephyrproject.org/r/zephyr zephyr-project
-```
-
-fdsdfafd
-
-
+    some description.
 
