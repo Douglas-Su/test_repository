@@ -16,7 +16,7 @@ The QEMU's offical page details all the needed dependencies and install
 procedures. For most Linux distribution, QEMU is already included in the
 package manager.
 
-    apt-get install qemu
+   apt-get install qemu
 
 For other Linux distributions, check [HERE](http://www.qemu.org/download/).
 
@@ -30,20 +30,20 @@ environment.
 
 1. Create a working directory
 
-    ```bash
-    mkdir Linux-device-driver
-    cd Linux-device-driver
-    ```
+   ```bash
+   mkdir Linux-device-driver
+   cd Linux-device-driver
+   ```
 
 2. Download the Linux kernel.
 
-    Download from [kernel.org](https://www.kernel.org/), Here we suppose to
-use Linux Kernel 4.9, a longterm version with EOF date of Jan, 2019. Here, 
-we use linux-4.9.30 as an example.
+   Download from [kernel.org](https://www.kernel.org/), Here we suppose to
+   use Linux Kernel 4.9, a longterm version with EOF date of Jan, 2019.
+   Here, we use linux-4.9.30 as an example.
 
-    ```bash
-    wget https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.30.tar.xz
-    ```
+   ```bash
+   wget https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.30.tar.xz
+   ```
 
 3. Extract the Kernel.
 
@@ -53,15 +53,14 @@ we use linux-4.9.30 as an example.
 
 4. Configure the kernel.
 
-   As [LFS](http://www.linuxfromscratch.org/lfs/view/stable/chapter08/
-kernel.html) says, "A good starting place for setting up the kernel
-configuration is to run make defconfig, This will set the base
-configuration to a good state that takes your current system architecture 
-into account." We first set the kernel to the default configuartion, then
-make some adjustment for a better suit of our needs.
+   As [LFS](http://www.linuxfromscratch.org/lfs/view/stable/chapter08/\
+   kernel.html) says, "A good starting place for setting up the kernel
+   configuration is to run make defconfig, This will set the base
+   configuration to a good state that takes your current system architecture 
+   into account." We first set the kernel to the default configuartion, then
+   make some adjustment for a better suit of our needs.
 
-```bash
-make defconfig
-```
+   ```bash
+   make defconfig
+   ```
 
----
