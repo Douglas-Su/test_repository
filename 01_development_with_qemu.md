@@ -53,7 +53,8 @@ environment.
 
 4. Configure the kernel.
 
-    As [LFS](http://www.linuxfromscratch.org/lfs/view/stable/chapter08/kernel.html)
+    As [LFS](http://www.linuxfromscratch.org/lfs/view/stable/chapter08/\
+    kernel.html)
     says, "A good starting place for setting up the kernel
     configuration is to run make defconfig, This will set the base
     configuration to a good state that takes your current system architecture 
