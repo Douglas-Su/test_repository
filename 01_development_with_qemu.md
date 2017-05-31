@@ -259,17 +259,18 @@ filesystem is fast ant convenient.
 
 # Reference
 
-1. [https://landley.net/writing/rootfs-howto.html]
-   (https://landley.net/writing/rootfs-howto.html)
+1. [https://landley.net/writing/rootfs-howto.html][1]
 
-2. [http://jootamam.net/howto-initramfs-image.htm]
-   (http://jootamam.net/howto-initramfs-image.htm)
+2. [http://jootamam.net/howto-initramfs-image.htm][2]
 
-3. [https://wiki.gentoo.org/wiki/Custom_Initramfs]
-   (https://wiki.gentoo.org/wiki/Custom_Initramfs)
+3. [https://wiki.gentoo.org/wiki/Custom_Initramfs][3]
 
-4. [http://www.nathanfriend.co.uk/nfs-refused-mount-illegal-port/]
-   (http://www.nathanfriend.co.uk/nfs-refused-mount-illegal-port/)
+4. [http://www.nathanfriend.co.uk/nfs-refused-mount-illegal-port/][4]
+
+[1]: https://landley.net/writing/rootfs-howto.html
+[2]: http://jootamam.net/howto-initramfs-image.htm
+[3]: https://wiki.gentoo.org/wiki/Custom_Initramfs
+[4]: http://www.nathanfriend.co.uk/nfs-refused-mount-illegal-port/
 
 ---
 
